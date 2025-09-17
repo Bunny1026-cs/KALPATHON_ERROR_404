@@ -37,8 +37,7 @@ A comprehensive mental health support application built with Next.js and Supabas
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone https://github.com/your-username/mental-health-companion-app.git
-   cd mental-health-companion-app
+   git clone https://github.com/Bunny1026-cs/KALPATHON_ERROR_404
    \`\`\`
 
 2. **Install dependencies**
@@ -131,10 +130,6 @@ The app is configured for easy deployment on Vercel:
 - All conversations are processed securely
 - Crisis detection built into AI responses
 - Encourages professional help when appropriate
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🆘 Support & Crisis Resources
 
