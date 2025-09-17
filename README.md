@@ -1,6 +1,11 @@
-# Mental Health Companion App
+# MindfulU – Mental Health Companion App
 
 A comprehensive mental health support application built with Next.js and Supabase, featuring AI-powered companionship, mental health assessments, crisis support, and curated resources.
+
+
+## 🌍 Live Demo  
+
+👉 [MindfulU – Try the app here](https://v0-remix-of-mental-health-companio-drab.vercel.app/) 
 
 ## 🌟 Features
 
