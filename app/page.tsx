@@ -26,7 +26,7 @@ export default function HomePage() {
       {/* Hero Section */}
       <section className="py-20 px-4">
         <div className="container mx-auto text-center max-w-4xl">
-          <Badge variant="secondary" className="mb-6">
+          <Badge variant="outline" className="mb-6 border-primary/30 text-primary bg-background">
             Trusted by 10,000+ Students
           </Badge>
           <h1 className="text-5xl font-bold text-balance mb-6 text-foreground">
